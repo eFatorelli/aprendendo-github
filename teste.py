@@ -8,3 +8,5 @@ for n in range(1, 4):
   sleep(0.3)
 
 print('Se ta contando até 3, ta funcionando')
+
+print('É, aparentemente está funcionando!')
